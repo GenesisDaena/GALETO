@@ -1,0 +1,16 @@
+# Ignore bin and obj folders 
+bin/ 
+obj/ 
+# Ignore build results 
+*.exe 
+*.dll 
+*.pdb 
+# Ignore temporary files 
+*.tmp 
+*.log 
+*.user 
+*.suo 
+*.cache 
+*.csproj.user 
+# Ignore publish outputs 
+publish/ 
